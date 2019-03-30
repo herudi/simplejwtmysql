@@ -1,0 +1,9 @@
+{
+	"db":{
+		"dbname":"simplejwt",
+		"host":"localhost",
+		"user":"root",
+		"pass":""
+	},
+	"jwt_secret":"mysecretherudisahimarsample"
+}
